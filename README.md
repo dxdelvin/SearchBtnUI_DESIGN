@@ -52,6 +52,10 @@ Feel free to customize the project to suit your preferences. You can modify the 
 
 - [Delvin Dsouza](https://github.com/dxdelvin)
 
+  ![image](https://github.com/dxdelvin/SearchBtnUI_DESIGN/assets/61946291/0da1e5cc-4374-4ebf-9d0d-2736ca2ed7fa)
+  ![image](https://github.com/dxdelvin/SearchBtnUI_DESIGN/assets/61946291/5d96115e-a350-40ba-bfe0-2e0a31dc6709)
+
+
 ## Acknowledgments
 
 - Inspired by modern and interactive user interfaces.
