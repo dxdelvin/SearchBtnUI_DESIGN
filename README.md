@@ -30,8 +30,6 @@ or [Visit the Website](https://dxdelvin.github.io/SearchBtnUI_DESIGN/)
 
 - Enter a search query into the input field.
 
-- Click the "Search" button to initiate the search. If the query is "anime girls," a specific visual effect is triggered.
-
 - Experience the dynamic loading animation while the search is in progress.
 
 ## Customization
