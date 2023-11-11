@@ -17,7 +17,7 @@ or [Visit the Website](https://dxdelvin.github.io/SearchBtnUI_DESIGN/)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Animated-Search-Bar.git
+   git clone https://github.com/dxdelvin/SearchBtnUI_DESIGN.git
    ```
 
 2. Open the `index.html` file in your web browser.
